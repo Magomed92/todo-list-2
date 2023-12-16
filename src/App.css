@@ -26,6 +26,8 @@
   border-bottom: 1px solid whitesmoke;
   color: whitesmoke;
   margin-left: 10px;
+  border-radius: 8px;
+  transition: 0.2s linear;
 }
 
 .enter:hover {
@@ -48,7 +50,7 @@
   top: 5px;
   background: none;
   border: none;
-  transition: 0.2s linear;
+  transition: 0.5s linear;
 }
 
 .delete:hover {
